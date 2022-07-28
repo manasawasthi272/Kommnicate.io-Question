@@ -1,0 +1,64 @@
+.lbox{
+    height: 40%;
+    float: left;
+    position: absolute;
+    border-color: aquamarine;
+    border-style: solid;
+    border-top-right-radius:30% 90%;
+    border-bottom-right-radius: 1% 5%;
+    width: 63%;
+    text-align: justify;
+    padding-left: 12%;
+    padding-top: 2%;
+    z-index: 2;
+    margin-top: 0.8%;
+} 
+.line{
+    float: left;
+    border-left: 3px solid black ;
+    position: absolute;
+    z-index: 3;
+    height: 50%;
+}  
+#l1{
+    color: #5553B7;
+}
+.button1{
+    background-color: #2DD35C;
+    color: white;
+    padding: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-top-left-radius: 20% 50%;
+    border-top-right-radius: 20% 50%;
+    border-bottom-left-radius: 20% 50%;
+    border-bottom-right-radius: 20% 50%;
+    border-style: inset;
+    border-color: white;
+    height: 36px;
+}
+.button2{
+    color: #5553B7;
+    background-color: white;
+    padding: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-top-left-radius: 20% 50%;
+    border-top-right-radius: 20% 50%;
+    border-bottom-left-radius: 20% 50%;
+    border-bottom-right-radius: 20% 50%;
+    border-color: #5553B7;
+    height: 36px;
+}
+.rbox{
+    background-color: #98AFC7;
+    height: 22%;
+    color: #98AFC7;
+    float: right;
+    position: absolute;
+    width: 48%;
+    margin-left: 50%;
+    margin-top: 7%;
+    border-top-left-radius:25% 90%;
+    border-bottom-left-radius: 2% 7%;
+}
