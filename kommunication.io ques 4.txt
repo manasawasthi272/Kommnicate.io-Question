@@ -1,0 +1,10 @@
+Project
+
+Employee Management System(EMS) App-
+
+This is a front end Project which is made by using HTML, CSS and bootstrap.It is mainly a blueprint of the web app which is used to have a database of the employee i.e which contain the 
+employee name and its detail and it also contain the job openings.Its first page is login page.Under the login page there is an dash board which contains the no of employee names and
+jobs ,they both contain the view all option respectively.And By clicking on the respective button we can see employees their id,name,emailid of the employee.It also contain the buttons of 
+emp detail,edit and delete button by which we can do their respective work. The view all button under the jobs option also contain id,job names,its also have detail,edit and delete button 
+also which do their assigned work.The navigation bar contain "Hi,Manas" logo employee,job and search option aswellas logout button.Employee option on the navigation bar will take us to the 
+Employee detail area and the by clicking on job option will take us to the job list area. 
